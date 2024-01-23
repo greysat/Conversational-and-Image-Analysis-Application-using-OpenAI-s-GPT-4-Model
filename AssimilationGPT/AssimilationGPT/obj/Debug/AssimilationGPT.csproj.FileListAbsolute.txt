@@ -1,0 +1,13 @@
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.csproj.AssemblyReference.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\TextGeneration.Form1.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.Properties.Resources.resources
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.csproj.GenerateResource.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.csproj.CoreCompileInputs.cache
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\bin\Debug\AssimilationGPT.exe.config
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\bin\Debug\AssimilationGPT.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\bin\Debug\AssimilationGPT.pdb
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.csproj.CopyComplete
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.exe
+C:\Users\Hinds-pc\Desktop\MesProjets\AssimilationGPT\AssimilationGPT\obj\Debug\AssimilationGPT.pdb
